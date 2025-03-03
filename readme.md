@@ -14,7 +14,7 @@ This is a list of awesome resources used in audio incremental learning, as well 
 
 ### 2024
 <!--  - XXX (**XX**) [[paper](XX)] [[code](XXX)] -->
-- Adapter based Incremental Learning for Face Forgery Detection (**ICASSP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10446543)]
+- AudioCIL: A Python Toolbox for Audio Class-Incremental Learning with Multiple Scenes (**aRixv 2024**) [[paper](https://arxiv.org/abs/2412.11907)][[code](https://github.com/colaudiolab/AudioCIL/tree/main)]
 
 
 ### 2023
