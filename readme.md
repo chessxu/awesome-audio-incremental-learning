@@ -5,13 +5,16 @@ This is a list of awesome resources used in audio incremental learning, as well 
 
 ## Survey
 <!-- - XXX survey (**XX journal or conference**) [[paper](link)] -->
+- Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning (**aRixv 2025**) [[paper](https://arxiv.org/pdf/2502.08181)]
 
 
 
 ## Papers
 
 ### 2025
-TAIL: Text-Audio Incremental Learning (**aRixv 2025**) [[paper](https://arxiv.org/pdf/2503.04258)]
+- A Closer Look at Class-Incremental Learning for Multi-Label Audio Classification (**IEEE TASLP**)[[paper](https://ieeexplore.ieee.org/abstract/document/10909318)]
+- Fully Few-shot Class-incremental Audio Classification with Adaptive Improvement of Stability and Plasticity (**IEEE TASLP**)[[paper](https://ieeexplore.ieee.org/abstract/document/10833821)]
+- TAIL: Text-Audio Incremental Learning (**aRixv 2025**) [[paper](https://arxiv.org/pdf/2503.04258)]
 
 ### 2024
 <!--  - XXX (**XX**) [[paper](XX)] [[code](XXX)] -->
