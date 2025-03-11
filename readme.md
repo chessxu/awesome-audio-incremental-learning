@@ -45,6 +45,7 @@ This is a list of awesome resources used in audio incremental learning, as well 
 
 ### 2021
 - Few-shot continual learning for audio classification (**ICASSP 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9413584)]
+- WHO CALLS THE SHOTS? RETHINKING FEW-SHOT LEARNING FOR AUDIO (**IEEE WASPAA 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9632677)][[code](https://github.com/wangyu/rethink-audio-fsl)]
 - Continual learning for fake audio detection (**Interpeech 2021**) [[paper](https://www.isca-archive.org/interspeech_2021/ma21b_interspeech.pdf)]
 
 ### 2020
