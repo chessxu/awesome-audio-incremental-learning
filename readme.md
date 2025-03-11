@@ -21,6 +21,7 @@ This is a list of awesome resources used in audio incremental learning, as well 
 - AudioCIL: A Python Toolbox for Audio Class-Incremental Learning with Multiple Scenes (**aRixv 2024**) [[paper](https://arxiv.org/abs/2412.11907)][[code](https://github.com/colaudiolab/AudioCIL/tree/main)]
 - Few-shot class-incremental audio classification with adaptive mitigation of forgetting and overfitting (**IEEE/ACM TASLP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10494541/)]
 - Improving continual learning of acoustic scene classification via mutual information optimization (**ICASSP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10446846/)]
+- Multi-Modal Continual Pre-Training For Audio Encoders (**ICASSP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10446424)]
 - Towards Robust Few-shot Class Incremental Learning in Audio Classification using Contrastive Representation (**InterSpeech 2024**) [[paper](https://www.isca-archive.org/interspeech_2024/singh24b_interspeech.pdf)]
 - Fully Few-shot Class-incremental Audio Classification Using Expandable Dual-embedding Extractor (**InterSpeech 2024**) [[paper](https://www.isca-archive.org/interspeech_2024/si24_interspeech.pdf)]
 - Domain-Incremental Learning for Audio Classification (**aRixv 2024**) [[paper](https://arxiv.org/pdf/2412.17424)]
@@ -33,9 +34,23 @@ This is a list of awesome resources used in audio incremental learning, as well 
 - Continual Audio-Visual Sound Separation (**NeurIPS 2024**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8af52d7acc4f0013661d4223d7e12b4c-Paper-Conference.pdf)][[code](https://github.com/weiguoPian/ContAV-Sep_NeurIPS2024)]
 - Class-Incremental Learning for Sound Event Localization and Detection (**aRixv 2024**) [[paper](https://arxiv.org/pdf/2411.12830)]
 - Class-incremental learning for time series: Benchmark and evaluation (**KDD 2024**) [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671581)][[code](https://github.com/zqiao11/TSCIL)]
+- Towards Robust Audio Deepfake Detection: A Evolving Benchmark for Continual Learning (**aRixv 2024**) [[paper](https://arxiv.org/pdf/2405.08596)][[code](https://github.com/Cecile-hi/Evolving-FAD-CL-Benchmark.git)]
 
 
 ### 2023
+- Adapter Incremental Continual Learning of Efficient Audio Spectrogram Transformers (**Interpeech 2023**) [[paper](https://www.isca-archive.org/interspeech_2023/muthuchamyselvaraj23_interspeech.pdf)]
+- Audio-visual class-incremental learning (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Pian_Audio-Visual_Class-Incremental_Learning_ICCV_2023_paper.html)][[code](https://github.com/weiguoPian/)]
+
+### 2022
+
+### 2021
+- Few-shot continual learning for audio classification (**ICASSP 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9413584)]
+- Continual learning for fake audio detection (**Interpeech 2021**) [[paper](https://www.isca-archive.org/interspeech_2021/ma21b_interspeech.pdf)]
+
+### 2020
+
+### 2019
+- Continual Learning of New Sound Classes Using Generative Replay (**IEEE WASPAA 2019**) [[paper](https://ieeexplore.ieee.org/document/8937236)]
 
 
 ## Contribute
